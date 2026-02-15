@@ -1,0 +1,5 @@
+@font-face {
+  font-family: 'MainFont';
+  font-display: swap;
+  src: url('./Font.ttf') format("truetype");  
+}
