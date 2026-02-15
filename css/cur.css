@@ -1,0 +1,10 @@
+body {
+    cursor:url('/cur/pointer.cur'),
+          default;
+          size: 1cap;
+  }
+  a,
+  link {
+    cursor:url('/cur/link.cur'),
+          default;
+  }
