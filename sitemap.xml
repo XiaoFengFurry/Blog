@@ -11,6 +11,24 @@
   </url>
   
   <url>
+    <loc>https://blog.xiaofeng-furry.top/tags/index.html</loc>
+    
+    <lastmod>2026-02-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.xiaofeng-furry.top/categories/index.html</loc>
+    
+    <lastmod>2026-02-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.xiaofeng-furry.top/source_data/link.json</loc>
     
     <lastmod>2026-02-18</lastmod>
@@ -38,12 +56,19 @@
 
   
   <url>
-    <loc>https://blog.xiaofeng-furry.top/tags/Furry-%E5%85%BD%E8%A3%85-%E7%BA%A6%E8%A3%85/</loc>
+    <loc>https://blog.xiaofeng-furry.top/tags/Furry-%E5%85%BD%E8%A3%85-%E7%BA%A6%E8%A3%85-%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2026-02-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
 
+  
+  <url>
+    <loc>https://blog.xiaofeng-furry.top/categories/%E5%85%BD%E8%A3%85-%E7%BA%A6%E8%A3%85%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2026-02-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
